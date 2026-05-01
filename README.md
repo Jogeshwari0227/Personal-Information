@@ -17,4 +17,4 @@ Building end-to-end ML and data products | Python · Pandas · Scikit-learn · S
 Python | Pandas | NumPy | Scikit-learn | SQL | Tableau | Streamlit | Git | Linux
 
 ## 📫 Connect
-[LinkedIn](your-linkedin-url) · jogeshwaribiradar2005@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jogeshwari-biradar-b008b9292/) · jogeshwaribiradar2005@gmail.com
